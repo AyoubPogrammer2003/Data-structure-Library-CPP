@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Include">
+      <UniqueIdentifier>{7784036e-0ae9-4a33-9a3b-db8852155482}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsDblLinkedList.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Include</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
