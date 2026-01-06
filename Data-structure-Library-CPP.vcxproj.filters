@@ -16,6 +16,9 @@
     <Filter Include="Header Files\Include">
       <UniqueIdentifier>{7784036e-0ae9-4a33-9a3b-db8852155482}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Tests">
+      <UniqueIdentifier>{612298d7-444b-47df-afc9-477aa72c670b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsDblLinkedList.h">
