@@ -134,7 +134,7 @@ public:
         /*
             1-Set the next pointer of the previous node to the next pointer of the current node.
             2-Set the previous pointer of the next node to the previous pointer of the current node.
-            3-Delete the current node.
+            3-Delete the current node
         */
         if (head == NULL || NodeToDelete == NULL) {
             return;
