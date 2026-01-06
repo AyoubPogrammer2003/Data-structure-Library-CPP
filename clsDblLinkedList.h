@@ -31,7 +31,7 @@ public:
             1-Create a new node with the desired value.
             2-Set the next pointer of the new node to the current head of the list.
             3-Set the previous pointer of the current head to the new node.
-            4-Set the new node as the new head of the list.
+            4-Set the new node as the new head of the list.///////
         */
 
         Node* newNode = new Node();
