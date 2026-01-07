@@ -21,13 +21,7 @@
     <ClInclude Include="DS-Library\clsDblLinkedList.h">
       <Filter>Header Files\DS-Library</Filter>
     </ClInclude>
-    <ClInclude Include="DS-Library\clsMyText.h">
-      <Filter>Header Files\DS-Library</Filter>
-    </ClInclude>
     <ClInclude Include="DS-Library\clsMyQueue.h">
-      <Filter>Header Files\DS-Library</Filter>
-    </ClInclude>
-    <ClInclude Include="DS-Library\Text.h">
       <Filter>Header Files\DS-Library</Filter>
     </ClInclude>
     <ClInclude Include="DS-Library\clsMyStack.h">

@@ -126,8 +126,6 @@
     <ClInclude Include="DS-Library\clsDblLinkedList.h" />
     <ClInclude Include="DS-Library\clsMyQueue.h" />
     <ClInclude Include="DS-Library\clsMyStack.h" />
-    <ClInclude Include="DS-Library\clsMyText.h" />
-    <ClInclude Include="DS-Library\Text.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
