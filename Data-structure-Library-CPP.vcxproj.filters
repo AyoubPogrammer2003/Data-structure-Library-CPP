@@ -27,6 +27,9 @@
     <ClInclude Include="clsMyStack.h">
       <Filter>Header Files\DS-Library</Filter>
     </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\DS-Library</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
