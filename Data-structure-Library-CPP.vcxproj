@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="clsMyQueue.h" />
+    <ClInclude Include="clsMyStack.h" />
     <ClInclude Include="DS-Library\clsDblLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
