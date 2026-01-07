@@ -18,13 +18,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="clsDblLinkedList.h">
+    <ClInclude Include="DS-Library\clsDblLinkedList.h">
       <Filter>Header Files\DS-Library</Filter>
     </ClInclude>
+    <ClInclude Include="clsMyQueue.h">
+      <Filter>Header Files\DS-Library</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
