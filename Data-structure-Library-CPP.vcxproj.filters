@@ -13,21 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Header Files\Include">
-      <UniqueIdentifier>{7784036e-0ae9-4a33-9a3b-db8852155482}</UniqueIdentifier>
+    <Filter Include="Header Files\DS-Library">
+      <UniqueIdentifier>{b62f8c23-08aa-4532-8bc4-83b965fd7328}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\Tests">
-      <UniqueIdentifier>{612298d7-444b-47df-afc9-477aa72c670b}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="clsDblLinkedList.h">
-      <Filter>Header Files\Include</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsDblLinkedList.h">
+      <Filter>Header Files\DS-Library</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
