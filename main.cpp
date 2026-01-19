@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "clsMyDynamicArray.h"
+#include "clsMyStackArr.h"
 
 using namespace std;
 

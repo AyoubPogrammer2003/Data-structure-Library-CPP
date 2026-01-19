@@ -18,13 +18,11 @@ public:
 	T Top()
 	{
 		return clsMyQueue <T>::front();
-
 	}
 
 	T Bottom()
 	{
 		return clsMyQueue <T>::back();
-
 	}
 
 };

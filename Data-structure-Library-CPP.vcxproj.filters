@@ -33,6 +33,9 @@
     <ClInclude Include="clsMyQueueArr.h">
       <Filter>Header Files\DS-Library</Filter>
     </ClInclude>
+    <ClInclude Include="clsMyStackArr.h">
+      <Filter>Header Files\DS-Library</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
