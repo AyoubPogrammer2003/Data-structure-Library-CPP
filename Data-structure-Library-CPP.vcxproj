@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="clsMyDynamicArray.h" />
+    <ClInclude Include="clsMyQueueArr.h" />
     <ClInclude Include="DS-Library\clsDblLinkedList.h" />
     <ClInclude Include="DS-Library\clsMyQueue.h" />
     <ClInclude Include="DS-Library\clsMyStack.h" />
