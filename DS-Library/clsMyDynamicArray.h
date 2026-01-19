@@ -225,7 +225,7 @@ public:
         if (index >= _Size)
             return InsertAt(_Size , value);
         else
-            return InsertAt(index + 1, value);
+            return InsertAt(index + 1, value);;
 
     }
 
