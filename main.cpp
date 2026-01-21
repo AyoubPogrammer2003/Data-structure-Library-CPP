@@ -1,7 +1,6 @@
 
 #include <iostream>
-#include "clsMyStackArr.h"
-
+#include "clsMyString.h"
 using namespace std;
 
 int main()
